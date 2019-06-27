@@ -1,4 +1,4 @@
-## Available Scripts
+## Project of calculate or denominate of nominal rupiahs
 
 In the project directory, you can run:
 
